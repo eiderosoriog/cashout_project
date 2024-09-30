@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.chashout.CashOutServiceTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-09-29T20:42:14" hostname="PB0B0976547" time="2.624">
+  <properties/>
+  <testcase name="testCreateCashOutWithInsufficientBalance()" classname="com.example.chashout.CashOutServiceTest" time="2.486"/>
+  <testcase name="testGetCashOutById()" classname="com.example.chashout.CashOutServiceTest" time="0.108"/>
+  <testcase name="testGetUserFromExternalApi()" classname="com.example.chashout.CashOutServiceTest" time="0.011"/>
+  <testcase name="testGetCashOutByUserId()" classname="com.example.chashout.CashOutServiceTest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
